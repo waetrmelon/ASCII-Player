@@ -71,7 +71,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shmidget - @Shmidget on GitHub & Discord.
+waetrmelon - @waetrmelon on GitHub & Discord.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
