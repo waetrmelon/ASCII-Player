@@ -9,7 +9,7 @@
 <h3 align="center">Ascii Player</h3>
 
   <p align="center">
-    Simple tool used to render videos and images in the terminal, written in C++.
+	  simple tool used to render videos and images within the terminal.
     <br />
   </p>
 </div>
